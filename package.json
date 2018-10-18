@@ -1,7 +1,7 @@
 {
-  "name": "earthquakes",
+  "name": "Yelp",
   "version": "0.0.1",
-  "description": "earthquakes description for ExtReact app earthquakes",
+  "description": "Yelp explorer",
   "keywords": [
     "ExtReact"
   ],
@@ -30,6 +30,7 @@
     "@sencha/ext-react-renderercell": "~6.6.2",
     "@sencha/ext-react-transition": "~6.6.2",
     "axios": "^0.18.0",
+    "file-loader": "^2.0.0",
     "prop-types": "^15.6.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
